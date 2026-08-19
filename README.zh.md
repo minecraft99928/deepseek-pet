@@ -1,3 +1,5 @@
+> **📦 项目来源：** 本项目来自 [@linxin666/dsh-pet](https://www.npmjs.com/package/@linxin666/dsh-pet)，备份于此仅供学习参考。
+
 # dsh-pet — 多宠物伴侣插件
 
 [English](README.md) | 中文
